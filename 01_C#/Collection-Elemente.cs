@@ -3,6 +3,7 @@ using System.Collections.Generic;
 /*
  *     Array
  *     Grösse Fix, sehr schnell
+ *     https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections
  */
 void arr()
 {
